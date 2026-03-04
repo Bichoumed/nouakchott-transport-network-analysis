@@ -1,7 +1,7 @@
-dash
-plotly
+streamlit==1.55.0
+plotly>=6.0.0
 pandas
 numpy
-networkx
 scipy
-gunicorn
+networkx
+requests
